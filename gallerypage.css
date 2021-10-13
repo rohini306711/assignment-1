@@ -1,0 +1,6 @@
+.session{margin-left:42%;}
+     img{opacity:0.5;}
+     img:hover{opacity: 1; height: 210px;width:300px;border-radius: 5px;}
+   .resize{height:35%;width:15%; border:1px solid black;border-radius:7px;}
+   .decorate{text-decoration: none;font-size:21px;}
+   .gallery{margin-left: 20%;}

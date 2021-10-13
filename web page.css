@@ -1,0 +1,57 @@
+  
+.nav
+			{
+
+				display:flex;
+			 background-color: black;
+			 height: 32px;
+			 border-radius: 10px;
+			 padding:5px;
+			}
+		.navitem{ 
+			width:50%;
+			color: white;
+			font-size:23px;
+			padding-left:30px;
+			 text-decoration: none;
+			}
+
+		.ss{ 
+			text-align:right;
+			width:50%;
+			padding-left:30%;
+			color: white;
+			 }	
+  .div1{
+  	background-image:url('backgound1.jpg');
+  background-repeat: no-repeat;
+  height:400px;
+  background-size:cover;
+  background-position:center;
+}
+ 
+ 
+  .div1 h1{
+  	color: white;
+  	text-align: center;
+  	position: relative;
+  top:40%;
+  }
+  p{
+  	text-align: center;
+  }
+ .navfooter{ 
+ 	list-style-type: none;
+ }
+.footer{
+	text-align:right;
+}
+.linkitem{
+	text-decoration: none;
+}
+ .icon
+ {
+ 	font-size:40px;
+ padding: 13px;
+
+ }

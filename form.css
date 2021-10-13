@@ -1,0 +1,11 @@
+  
+
+  image{background-image: url(photos.jpg); background-repeat:repeat;background-size:cover;background-position:center ;border-radius: 25px; height:700px;padding: 12px;}
+	.container{text-align: center; margin-top: 3%;border:1px solid black;margin:10% 40% 0%40%;padding: 30px; background-image: url(bg.jfif);background-position: center;background-size: cover; border-radius: 6px;}
+	.container input{padding: 10px;border-radius: 8px;border:0;font-size:15px;}
+   button{border-radius:8px;border:0;text-align: center;}
+   .submit{border    .-radius: 8px; background-color: blue;color: white;width:70%;}
+
+    .logining  {background-color: red;width: 80%;}
+   .color { background-color:blue;}
+   .logining a{text-decoration: none;color: white;}
